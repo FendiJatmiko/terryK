@@ -1,0 +1,21 @@
+{
+  "name": "insta_scrapper",
+  "version": "1.0.0",
+  "description": "instagram scrape user profile",
+  "main": "insta_scraper.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "mongodb": "^2.2.33",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1",
+    "nodemon": "^2.0.2",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon insta_scrapper.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
