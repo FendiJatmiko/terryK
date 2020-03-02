@@ -189,4 +189,4 @@ app.get('/v1/:profile', function(req, res) {
   })();
 });
 
-app.listen(3000, () => console.log(`insta scrapper is running on port 3000`));
+module.exports = app;
