@@ -1,7 +1,7 @@
 {
-  "name": "insta_scrapper",
-  "version": "1.0.0",
-  "description": "instagram scrape user profile",
+  "name": "instagram-crawler",
+  "version": "1.1.0",
+  "description": "instagram crawler user profile",
   "main": "server.js",
   "dependencies": {
     "aws-serverless-express": "^3.3.6",
