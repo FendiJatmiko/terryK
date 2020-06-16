@@ -1,7 +1,0 @@
-Currently working freelance in peopleperhour.com with more than 5 client since december, but before working in this platform i was devops engineer in laku6.com, my job was to migrating monolith apps (php symphony) to microservices (GCP using GKE) ,, in my journey as software developer i have a bunch of job that use various Cloud platform such as AWS, GCP and AZURE, , i'm also really experience in Docker, CI/CD (Jenkins, Drone.io, CircleCI), Kubernetess, terraform, , My plan to join with Gojek is because i've heard that this company is using cutting edge technology and continuously improve to adapt with dynamic business requirement, I mean who doesnt want to join with such a great company right. .? and the reason i'm a great fit for the job is aside from the experience i've declare im also fast learner when it come to open-source technology and linux base system
-
-Hope can join with the company,
-
-
-Regards,
-Fendi J
